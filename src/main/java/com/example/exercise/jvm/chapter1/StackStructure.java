@@ -1,4 +1,4 @@
-package com.example.exercise.chapter1;
+package com.example.exercise.jvm.chapter1;
 
 public class StackStructure {
     public static void main(String[] args) {
