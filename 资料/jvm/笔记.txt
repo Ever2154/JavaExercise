@@ -1,0 +1,9 @@
+jvm命令
+	javap -v xx.class  反编译
+	jps 所有java进程
+
+虚拟机
+sun classic vm
+exact memory vm
+hotspot
+方法区1.7之前 永久代 1.8 元空间
